@@ -1,10 +1,10 @@
-const oldgreeting = require("./oldgreeting.js");
+const oldgreeting = require("./newgreeting.js");
 console.log("merge oefening leuk!")
 
 oldgreeting.greet()
 
 function student2Haiku(){
-    console.log("Frantically hiding Porno and Mapplethorpe print Mom is on her way.")
+    return ["Frantically hiding Porno and Mapplethorpe print Mom is on her way."]
     }
 function basicHaiku()
 {
