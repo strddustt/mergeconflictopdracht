@@ -3,7 +3,9 @@ console.log("merge oefening leuk!")
 
 oldgreeting.greet()
 
-
+function student2Haiku(){
+    console.log("Frantically hiding Porno and Mapplethorpe print Mom is on her way.")
+    }
 function basicHaiku()
 {
     return ["running to the shade","We saw a batman descending","In a basement with big D randy."]
@@ -15,8 +17,8 @@ function student1Haiku(){
 
 haikus = [
     basicHaiku(),
-    student1Haiku()
-    
+    student1Haiku,
+    student2Haiku()
 ]
 
 function randomHaiku()
