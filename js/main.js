@@ -3,7 +3,9 @@ console.log("merge oefening leuk!")
 
 oldgreeting.greet()
 
-
+function student2Haiku(){
+    console.log("Frantically hiding Porno and Mapplethorpe print Mom is on her way.")
+    }
 function basicHaiku()
 {
     return ["Toward those short trees","We saw a batman descending","In a basement with big D randy."]
@@ -11,7 +13,8 @@ function basicHaiku()
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
 haikus = [
-    basicHaiku()
+    basicHaiku(),
+    student2Haiku()
 ]
 
 function randomHaiku()
